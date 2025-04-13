@@ -2,7 +2,7 @@
   "name": "classify",
   "version": "0.0.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "app:web:build": "pnpm --filter @classify/app build"
   },
   "packageManager": "pnpm@10.8.0",
   "pnpm": {
