@@ -1,5 +1,8 @@
 {
-	"name": "api",
+	"name": "@classify/api",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
 	"scripts": {
 		"dev": "wrangler dev",
 		"deploy": "wrangler deploy --minify",
